@@ -54,7 +54,7 @@ The dashboard focuses on sales trends, delivery performance, customer ratings, a
 
 ## 📸 Dashboard Preview
 
-(Add your screenshots here)
+![Sales](Sales.png)
 
 ---
 
